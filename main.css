@@ -107,18 +107,17 @@ section {
 
 div.how-it-works {
 	background-color: white;
-	height: 700px;
 	clear: both;
 }
 
 div.volunteers {
 	background-color: #63B1F8;
-	height: 500px;
+	height: auto;
 }
 
 div.get-involved {
 	background-color: white;
-	height: 400px;
+	height: auto;
 }
 
 h2.section-header {
