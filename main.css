@@ -107,23 +107,50 @@ section {
 
 div.how-it-works {
 	background-color: white;
-	height: 400px;
+	height: 700px;
 	clear: both;
 }
 
 div.volunteers {
 	background-color: #63B1F8;
 	height: 500px;
-	clear: both;
 }
 
 div.get-involved {
 	background-color: white;
 	height: 400px;
-	clear: both;
 }
 
-/* ====== volunteer profile styles ====== */
+h2.section-header {
+	background-color: #FCFC38;
+	display: inline-block;
+	font-family: "Archivo Black", sans-serif;
+	font-size: 3em;
+	margin: 30px 0 30px 0;
+}
+
+p {
+	font-family: "Work Sans", sans-serif;
+	font-weight: 400;
+	font-size: 1.3em;
+}
+
+/* ====== how it works ====== */
+.list-item {
+	margin: 20px 0 20px 0;
+}
+
+
+img {
+	height: 100px;
+}
+
+p.list-text {
+	margin-top: 25px;
+}
+
+
+/* ====== meet our volunteers  ====== */
 div.profile {
 	margin: 20px 10px 40px 10px;
 }
